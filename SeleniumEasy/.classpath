@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/commons-csv-1.8/commons-csv-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/commons-csv-1.8/commons-csv-1.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/opencsv-2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/sqlserverjdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/mysql-connector-java-5.1.42/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/ooxml-lib/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/ooxml-lib/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/poi-bin-5.0.0-20210120.tar/poi-bin-5.0.0-20210120/poi-5.0.0/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/sqljdbc_8.4/enu/mssql-jdbc-8.4.1.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/sqljdbc_8.4/enu/mssql-jdbc-8.4.1.jre11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/sqljdbc_8.4/enu/mssql-jdbc-8.4.1.jre14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/SeleniumEasy/Tools/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/.m2/repository/junit/junit/4.10/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/evata/.m2/repository/junit/junit/4.10/junit-4.10-sources.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
