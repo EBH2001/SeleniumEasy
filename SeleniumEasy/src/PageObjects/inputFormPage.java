@@ -26,5 +26,9 @@ public class inputFormPage {
 	public static void doesMessageDisplay(String value) {
 		CommonUtil.doesObjectDisplayText(txtMessage, value);
 	}
+	
+	public static void enter_value1_data(String value) {
+		CommonUtil.enterObjectValue(txtValue1, value);
+	}
 
 }
